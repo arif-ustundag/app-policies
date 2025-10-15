@@ -1,6 +1,6 @@
 # Privacy Policy for Word Box
 
-**Effective Date:** October 15, 2025
+**Effective Date:** October 16, 2025
 **Version:** 1.1
 
 ---
@@ -90,4 +90,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## 9. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-**Email:** arif.ust01@gmail.com
+**Email:** arifustun.dev@gmail.com
