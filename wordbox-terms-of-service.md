@@ -13,7 +13,7 @@ By downloading, installing, or using the Word Box mobile application (the "App")
 
 ## 2. Privacy Policy
 
-Your use of the App is also governed by our Privacy Policy, which explains how we collect, use, and share your information. Our Privacy Policy is incorporated by reference into these Terms. You can access our Privacy Policy here: [(https://github.com/arif-ustundag/app-policies/blob/main/wordbox-privacy-policy.md)]
+Your use of the App is also governed by our Privacy Policy, which explains how we collect, use, and share your information. Our Privacy Policy is incorporated by reference into these Terms. You can access our Privacy Policy here: [Word Box Privacy Policy](https://github.com/arif-ustundag/app-policies/blob/main/wordbox-privacy-policy.md)
 
 ---
 
@@ -73,4 +73,4 @@ We reserve the right to modify these Terms at any time. If we make changes, we w
 ## 11. Contact Us
 
 If you have any questions about these Terms, please contact us at:
-**Email:** [arifustun.dev@gmail.com]
+**Email:** arifustun.dev@gmail.com
